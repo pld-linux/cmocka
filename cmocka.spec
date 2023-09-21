@@ -1,12 +1,12 @@
 Summary:	Fork of Google's cmockery unit testing framework
 Summary(pl.UTF-8):	Odgałęzienie szkieletu testów jednostkowych cmockery Google'a
 Name:		cmocka
-Version:	1.1.5
+Version:	1.1.7
 Release:	1
 License:	Apache v2.0
 Group:		Libraries
 Source0:	https://cmocka.org/files/1.1/%{name}-%{version}.tar.xz
-# Source0-md5:	91f95cd5db88b9b120d191b18d367193
+# Source0-md5:	dc23f4870eb7dfa6da065f3056e815b0
 URL:		https://cmocka.org/
 BuildRequires:	cmake >= 3.5.0
 BuildRequires:	tar >= 1:1.22
